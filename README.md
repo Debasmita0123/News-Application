@@ -1,2 +1,2 @@
 # News-Application
-A news application is made using React.js
+This is a React-based news application that displays the latest news articles from various categories such as Technology, Business, Health, Science, Sports, and Entertainment. The application is built with Vite for a fast development and Bootstrap is used for styling and layout. The key components of the application includes a Navbar for navigation, a NewsBoard to display articles based on the selected category, and individual NewsItems that show the details of each article.
