@@ -17,6 +17,22 @@ This is a React-based news application that displays the latest news articles fr
    * VITE_API_KEY=your_news_api_key
 3. Run the Application
    * npm run dev
+
+# Key Components
+* __Navbar__: This bar allows users to select different news categories.
+* __NewsBoard__: This component simply fetches news articles based on the selected category and displays them.
+* __NewsItem__: This component displays individual news articles with a title, description, image, and a link to read more.  
+
+# Dependencies
+* __React__: A JavaScript library for building user interfaces.
+* __Vite__: A build tool that provides a fast development environment.
+* __Bootstrap__: A CSS framework for developing responsive and mobile-first websites.
+
+# Demo Link : 
+[Click here](https://drive.google.com/file/d/11zkPv0vmde_v-vzMmTRe9S3edGMWxNE_/view?usp=sharing)
+
+# Contributions
+If you are having any issues or have any kind of suggestions for improvements,feel free to open an issue!
  
 
      
